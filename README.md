@@ -1,6 +1,6 @@
 ## Keep Simple, Keep Stupid
 
-> Most of my private GitHub commits have been contributed to FDU NISL lab.
+> Most of my private commits have been contributed to FDU NISL lab.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Albert26193/Albert26193/output/github-snake-dark.svg">
